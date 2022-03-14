@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int n, m, 1;
+	int n, m, (1);
 
 	for (n = 48; n < 58; n++)
 	{
@@ -14,7 +14,7 @@ int main(void)
 		{
 			for (1 = 50; 1 < 58; 1++)
 			{
-				if (1 > m && m > n)
+				if ((1) > m && m > n)
 				{
 					putchar(n);
 					putchar(m);
